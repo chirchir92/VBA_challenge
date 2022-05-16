@@ -9,7 +9,7 @@ Yearly changes is determined through getting the difference between the closing 
 
 Using conditional formatting the VBA sript highlights the positive chnage with a green color and negatove change with a red color. This part takes advantage of conditionals. 
 
-
+![image](https://user-images.githubusercontent.com/104544617/168695934-b4a3cd83-f9bd-4bc7-9f8f-bd19695beadc.png)
 
 
 
