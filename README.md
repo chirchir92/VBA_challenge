@@ -2,8 +2,8 @@
 
 You are well on your way to becoming a programmer and Excel master! In this homework assignment you will use VBA scripting to analyse real stock market data. Depending on your comfort level with VBA, you may choose to challenge yourself with a few of the challenge tasks.
 
-![Uploading Screen Shot 2022-05-16 at 6.42.23 pm.png…]()
 
+![image](https://user-images.githubusercontent.com/104544617/168695996-26c5dc24-1fb5-4abb-b809-14653bfa3608.png)
 
 Yearly changes is determined through getting the difference between the closing and opening price (see VBA code). Additionally, dividing the change with opening price returns the percentage change. The VBA code also summarises the total stock volume. 
 
