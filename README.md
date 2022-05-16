@@ -4,7 +4,11 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 ![Uploading Screen Shot 2022-05-16 at 6.42.23 pm.png…]()
 
-this 
+
+Yearly changes is determined through getting the difference between the closing and opening price (see VBA code). Additionally, dividing the change with opening price returns the percentage change. The VBA code also summarises the total stock volume. 
+
+Using conditional formatting the VBA sript highlights the positive chnage with a green color and negatove change with a red color. This part takes advantage of conditionals. 
+
 
 
 
